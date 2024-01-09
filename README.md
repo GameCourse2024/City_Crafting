@@ -6,7 +6,6 @@
 
 ## Game Concept
 
-תארו את הרעיון המרכזי של המשחק שלכם
 When it comes to kingdoms, being good at war is not enough. Lots more is needed, diplomacy, interpersonal skills and much more. In this game you will explore a different side of being a ruler, winning wars is good but what about building up your cities facilites and keeping your nation happy.
 
 The game is designed for PC.
@@ -65,21 +64,38 @@ Since the game will be story-driven the only real result possible is to win the 
 
 We searched for similar games using the expression "First-Person City Builder"
 
-#1. Empires and tribes 
+#1. Empires And Tribes 
+
+![image](https://github.com/GameCourse2024/City_Crafting/assets/45041126/f0319262-c162-4f4f-abff-09029b352e6e)
+
+https://store.steampowered.com/app/1273790/Empires_and_Tribes/
 
 While the game seems to share some things in common with our game, when it comes to building in Empires and Tribes you build it yourself in third-person as opposed to our game where its in first-person and in delegation and when it comes to exploration we want our game to have much more of it as opposed to empires and tribes.
 
 
-![image](https://github.com/GameCourse2024/City_Crafting/assets/45041126/f0319262-c162-4f4f-abff-09029b352e6e)
 
 
-זהו את שלושת המשחקים הדומים ביותר. לגבי כל אחד מהם:
+#2. Sapiens
 
-* שימו קישור וצילום-מסך להמחשה.
-* הסבירו מה תעשו כדי שהמשחק שלכם יהיה שונה/מקורי/מיוחד/טוב יותר מהמתחרים?  מדוע שחקנים יעדיפו דווקא את המשחק שלכם?
+![image](https://github.com/GameCourse2024/City_Crafting/assets/45041126/20ad11b7-c3b0-41a7-aeb7-a82afe1fdc1d)
 
-מבין הרכיבים הרשמיים, 
-איזה רכיב (או רכיבים) ידגיש ביותר את הייחוד והמקוריות של המשחק שלכם, לעומת משחקים דומים הקיימים בשוק?
+[https://store.steampowered.com/app/1060230/Sapiens/#:~:text=About%20This%20Game&text=In%20Sapiens%20you%20create%20your,pebble%20to%20constructing%20monumental%20structures.](https://store.steampowered.com/app/1060230/Sapiens/)
+
+This game has a similar "feel" to what we are going for but the biggest problem is that instead of being a first-person like we are going for it is a third-person and that really changes the whole perspective of the game.
+
+
+#3. Technicity
+
+![image](https://github.com/GameCourse2024/City_Crafting/assets/45041126/64010779-2951-445c-bae9-35ab2f3aa62a)
+
+https://store.steampowered.com/app/781180/Technicity/
+
+The game is set a different environment, a more industrial and technology based city while ours is a medival one and puts delegation to use and this game doesn't
+
+
+
+
+
 
 
 </div>
