@@ -10,7 +10,7 @@
 When it comes to kingdoms, being good at war is not enough. Lots more is needed, diplomacy, interpersonal skills and much more. In this game you will explore a different side of being a ruler, winning wars is good but what about building up your cities facilites and keeping your nation happy.
 
 The game is designed for PC.
-![Uploading PhotoReal_generate_a_game_cover_for_a_game_called_city_craftin_1.jpg…]()
+![image](https://github.com/GameCourse2024/City_Crafting/assets/45041126/f3996921-3f86-4999-9aaf-8e2bf6ba7a14)
 
 
 
