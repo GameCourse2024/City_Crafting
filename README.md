@@ -18,84 +18,60 @@ The game is designed for PC.
 ---
 
 
-## רכיבים רשמיים
-
-ענו על השאלות הבאות לגבי הרכיבים הרשמיים של המשחק
-(החליפו את הטקסט של השאלות בתשובות שלכם).
-
-המחישו את התשובות שלכם בעזרת ציורי-מסך.
-
-### 1. שחקנים
-
-* לאילו שחקנים מיועד המשחק שלכם (איזה גילים / רמת כישרון / רמת ניסיון / תחומי עניין)?
-* לכמה שחקנים מיועד המשחק?
-* מה יהיו דפוסי האינטראקציה בין השחקנים (שיתופי / תחרותי)?
-
-### 2. יעדים
-
-* מה הם היעדים שהשחקן צריך להשיג כדי לנצח במשחק?
-* איך המשחק יודיע לשחקן את היעדים שלו? 
+## Formal Components
 
 
-### 3. תהליכים
 
-תארו בפירוט את:
+### 1. Players
 
-* תהליך ההתחלה של המשחק - שלושים השניות הראשונות (זה הזמן ששחקן ממוצע, שייתקל במשחק שלכם באינטרנט, ישחק בו לפני שיחליט אם להמשיך או לא. מה תעשו כדי לגרום לו להישאר?);
-*	תהליך הליבה של המשחק – רצף-הפעולות שהשחקן מבצע שוב ושוב על-מנת להתקדם במשחק.
-*	תהליך הסיום של המשחק – הפעולות שהשחקן מבצע כדי לנצח / לסיים את המשחק.
-לגבי כל תהליך, ענו על השאלות: "מי עושה מה, איפה, מתי, ואיך?".  תארו באיזה פקדים השחקן ישתמש (עכבר / מקלדת / מגע), ומה יקרה במשחק כתוצאה מכך.
-
-איך השחקן ילמד על התהליכים? 
-
-### 4. חוקים
-
-* איזה חוקים יגבילו את פעולות השחקן במשחק?
-* לפי איזה חוקים ייקבעו תוצאות של פעולות במשחק?
-* איך השחקן ילמד את חוקי המשחק?
+Our target audience are males between the ages of 17-30, that love city building games and want to take it to the next level. We are targetting experienced players. The game is a singleplayer.
 
 
-### 5. משאבים
+### 2. Goals
 
-* מה יהיו המשאבים במשחק?
-* איך המשאבים הללו יועילו לשחקן?
-* איך השחקן יוכל להשיג משאבים?
-* איך עיצוב המשחק יגרום לכך שהמשאבים יהיו נדירים (שלא יהיה קל מדי להשיג אותם)?
-* איך המשחק יודיע לשחקן מה הם המשאבים במשחק, וכמה משאבים יש לו בכל רגע?
+The goal of the game is to rebuild a city that has been destroyed and help a dying nation, the player will know he is reaching his goal by getting more power over what buildings he can build and what facilites he can facilitate, The game will guide the player to the correct path. 
 
-### 6. עימותים
+### 3. Procedures
 
-מה יהיו העימותים המרכזיים במשחק:
-
-* בין השחקן למערכת (מכשולים),
-* בין השחקן לשחקנים אחרים (יריבים),
-* בין השחקן לעצמו (דילמות)? 
+The first 30 seconds of the game will be well crafted cut-scenes that will make the player curious about what is going on. The player will need to design a building and make face with powerful figures in the nation to keep his position secure and h is people happy, he will need to keep doing this till his nation is stable enough to stand on its own. The player will mainly interact with others using the mouse to choose dialogue and command his people to do his bidding. The game will have an in-depth guide for every new mechanic.
 
 
-### 7. גבולות
+### 4. Rules
 
-מה יהיו הגבולות של עולם המשחק? האם העולם יהיה - 
-* סגור או פתוח?
-*  עגול או שטוח? 
+The games rules are to keep your nation happy and keep on expanding, but besides that this game will be mainly a sand-box
 
- איך המשחק יראה לשחקן את הגבולות? 
- 
- הסבירו איך המפה שלכם מקיימת את עקרונות התיכנון: משמעות, ניידות, התמצאות, עניין, והכוונה.
+### 5. Resources
+
+The resources of this game will be food, water, gold, lumber, and ore. Each building will have a specific set of ingredients needed to build it. You can acheive these resources by assigning the NPC's you have under your command to fetch them for you but remember, each NPC has a its own specifications, in other words what it likes and what it's good at making you need to balance between his happyness and how utilized he is. The player will have an inventory-checker, an NPC who will count the city's inventory of resources.
 
 
-### 8. תוצאות
+### 6. Confrontations
 
-* כמה תוצאות אפשריות יהיו למשחק, ומה הן יהיו? 
-* עד כמה התוצאה תלויה במזל לעומת כישרון? 
-* האם המשחק יהיה "סכום אפס", שיתופי, או מורכב?
+The main confrontation in the game will be your nation itself, keeping them dissatisfied will lead them to rebellion and putting corrupt people in charge will maybe benefit you by lots of resources, but will lead to a dissatisfied nation. Leading you to look for balance inside your nation and finding a way to expand it by bringing more and more people to migrate to you.
 
----
+### 7. Limitations
 
-## סקר שוק
+The limitations of the game will be by terrain, in other words seas and mountains will block off the ends of the open-world map, these limits are left for you to discover for yourself, the game world will have a minimap where you can see whats around you and a general map where you can see all the terrain you have discovered, with a quick travel 
+option to points of interest you have been at.
 
-לפני שמתחילים לעבוד על משחק (או כל מוצר אחר), חשוב לוודא שלא עשו את זה קודם. לא נעים לעבוד סמסטר שלם (או שנה שלמה) על משחק ואז לגלות שכבר יש משחק כזה. 
 
-חפשו בגוגל, בחנות play, בפייסבוק, ובכל מקום אחר שיש לכם גישה אליו, משחקים דומים לרעיון שלכם. ציינו באיזה ביטויי-חיפוש השתמשתם.
+### 8. Results
+
+Since the game will be story-driven the only real result possible is to win the game in the end, but being a sand-box you can keep on enjoying the game will designing and crafting a city thats better and better as you wish.
+
+
+
+## Market Survey
+
+We searched for similar games using the expression "First-Person City Builder"
+
+#1. Empires and tribes 
+
+While the game seems to share some things in common with our game, when it comes to building in Empires and Tribes you build it yourself in third-person as opposed to our game where its in first-person and in delegation and when it comes to exploration we want our game to have much more of it as opposed to empires and tribes.
+
+
+![image](https://github.com/GameCourse2024/City_Crafting/assets/45041126/f0319262-c162-4f4f-abff-09029b352e6e)
+
 
 זהו את שלושת המשחקים הדומים ביותר. לגבי כל אחד מהם:
 
